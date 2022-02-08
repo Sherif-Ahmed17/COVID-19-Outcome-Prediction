@@ -25,4 +25,4 @@ The dataset contains 14major variables that will be having an impact on whether 
 
 14.Result: death (1) or recovered (0).
 
-It is required to design different classifiersto the predict the outcome (death/recovered) when a new person is admittedto the hospital.The data is already cleaned and preprocessed.
+It is required to design different classifiersto the predict the outcome (death/recovered) when a new person is admitted to the hospital.The data is already cleaned and preprocessed.
